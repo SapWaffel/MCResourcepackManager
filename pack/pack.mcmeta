@@ -1,0 +1,9 @@
+{
+	"pack": {
+		"pack_format": 55,
+		"supported_formats": [55, 999],
+		"min_format": 55,
+		"max_format": 999,
+		"description": "Server-side resource pack"
+	}
+}
