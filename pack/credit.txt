@@ -1,2 +1,7 @@
-This pack includes assets from and inspired by Estecka's 'Invariable Paintings CIT' resource-pack (CC-BY-4.0).
+This pack includes assets from and inspired by...
+
+Estecka's 'Invariable Paintings CIT' resourcepack (CC-BY-4.0).
 https://modrinth.com/resourcepack/invarpaint-cit
+
+FloatingGoat's 'Goat's Elytra Trims' data- & resourcepack (AAR).
+https://modrinth.com/datapack/goats-elytra-trims
